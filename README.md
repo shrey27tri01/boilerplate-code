@@ -1,0 +1,1 @@
+[Django](https://www.djangoproject.com/) boilerplate code, with project name ```myproject``` and an app named ```myapp```.
